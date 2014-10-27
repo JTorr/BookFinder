@@ -22,6 +22,7 @@ gem 'omniauth-google-oauth2'
 gem 'figaro'
 gem 'annotate'
 gem 'gravtastic'
+gem 'newrelic_rpm'
 
 group :development do
   # gem 'better_errors'
